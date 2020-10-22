@@ -17,7 +17,7 @@ def watcher(filename, original_path, file_moving_path, search_string):
 
 
 if __name__ == "__main__":
-    filenames = ['watcher.csv', 'watch.csv', 'S&P BSE 100 ESG Index.csv']
+    filenames = ['watcher.csv', 'watch.csv']
     original_path = '/home/goutham/Documents/'
     file_moving_path = '/home/goutham/Music/'
     search_string = 'v2etechnology'
