@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "6K57R8h2IFRd6r32Oo4PKGWe8DJIYw9MxBkytLpEGC1G7XCMp+h9BoPSh/P5qLPQURC58pmvxrwmgdDSH+a43w==",
+  "success": true,
+  "projectFilePath": "/home/goutham/demo/pdfsplit/pdfsplit.csproj",
+  "expectedPackageFiles": [
+    "/home/goutham/.nuget/packages/bouncycastle/1.8.6.1/bouncycastle.1.8.6.1.nupkg.sha512",
+    "/home/goutham/.nuget/packages/itextsharp/5.5.13.2/itextsharp.5.5.13.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BouncyCastle 1.8.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

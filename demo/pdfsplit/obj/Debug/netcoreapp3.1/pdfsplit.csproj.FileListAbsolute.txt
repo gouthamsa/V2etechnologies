@@ -1,0 +1,16 @@
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/pdfsplit
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/pdfsplit.deps.json
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/pdfsplit.runtimeconfig.json
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/pdfsplit.runtimeconfig.dev.json
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/pdfsplit.dll
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/pdfsplit.pdb
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/home/goutham/demo/pdfsplit/bin/Debug/netcoreapp3.1/itextsharp.dll
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.csprojAssemblyReference.cache
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.AssemblyInfoInputs.cache
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.AssemblyInfo.cs
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.csproj.CoreCompileInputs.cache
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.csproj.CopyComplete
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.dll
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.pdb
+/home/goutham/demo/pdfsplit/obj/Debug/netcoreapp3.1/pdfsplit.genruntimeconfig.cache
