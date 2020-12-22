@@ -20,6 +20,6 @@ if __name__ == "__main__":
     filenames = ['watcher.csv', 'watch.csv']
     original_path = '/home/goutham/Documents/'
     file_moving_path = '/home/goutham/Music/'
-    search_string = 'v2etechnology'
+    search_string = 'enter search String here '
     for file in filenames:
         watcher(file, original_path, file_moving_path, search_string)
